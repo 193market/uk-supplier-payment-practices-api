@@ -2,7 +2,7 @@
 
 How fast large UK companies pay suppliers: days to pay, late share, trend and benchmark against ~9,000 reporters.
 
-**Try it (free tier, no card):** [https://rapidapi.com/193market/api/uk-supplier-payment-practices](https://rapidapi.com/193market/api/uk-supplier-payment-practices) · also on [api.market](https://api.market/store/193market/uk-supplier-payment-practices)
+**Try it (free tier for evaluation):** [https://rapidapi.com/193market/api/uk-supplier-payment-practices](https://rapidapi.com/193market/api/uk-supplier-payment-practices) · also on [api.market](https://api.market/store/193market/uk-supplier-payment-practices)
 
 How fast do large UK companies pay their suppliers? Average days to pay, share of invoices paid late, payment terms and trend for about 10,000 companies, from the statutory Payment Practices Reporting filings. One call returns the latest figures, the history and how the company compares.
 
@@ -54,8 +54,8 @@ Other calls worth trying:
     "..."
   ],
   "data_freshness": {
-    "latest_filing": "2026-09-22",
-    "built_at": "2026-09-23T05:00:21+00:00"
+    "latest_filing": "2026-09-23",
+    "built_at": "2026-09-24T05:00:34+00:00"
   },
   "attribution": {
     "source": "UK Payment Practices Reporting, Department for Business and Trade",
@@ -86,7 +86,7 @@ The full OpenAPI 3 specification is in [`openapi.json`](openapi.json).
 | Plan | Price | Included per month |
 |---|---|---|
 | BASIC | free | a small monthly quota for evaluation |
-| PRO / ULTRA / MEGA | from $49 / month | 1,000+ requests, per-request overage, higher rate limits |
+| PRO / ULTRA / MEGA | from $49 / month | larger monthly quotas, per-request overage, higher rate limits |
 
 Current prices are always on the [RapidAPI pricing page](https://rapidapi.com/193market/api/uk-supplier-payment-practices/pricing). Error responses (4xx/5xx) are not charged on api.market.
 
